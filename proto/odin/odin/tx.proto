@@ -1,0 +1,7 @@
+syntax = "proto3";
+package odin.odin;
+
+option go_package = "odin/x/odin/types";
+
+// Msg defines the Msg service.
+service Msg {}
